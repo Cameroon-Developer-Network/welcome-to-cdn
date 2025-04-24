@@ -6,7 +6,7 @@
 ![Cameroon Dev Network](https://img.shields.io/badge/Proud%20Cameroonian%20Dev-%F0%9F%87%A8%F0%9F%87%AC-green?style=for-the-badge)
 
 
-Welcome to the **Cameroon Developer Network** — a growing community of developers from Cameroon 🇨🇲 who believe in collaboration, growth, and lifting each other up.
+Welcome to the **Cameroon Developer Network** — a growing community of developers from Cameroon 🇨🇲 who believe in collaboration, growth, and lifting each other.
 
 ## 🎯 Mission
 To bring together Cameroonian developers to share, collaborate, and grow through open source and tech initiatives.
@@ -23,12 +23,13 @@ To join, simply:
 | [@chojuninengu](https://github.com/chojuninengu) | [FibBot](https://github.com/chojuninengu/fibbot), [ShareSphere](https://github.com/chojuninengu/sharesphere) | Rust, Web Dev, GitHub Actions |
 | [@kimbohlovette](https://github.com/kimbohlovette) | [See projects](https://kimbohlovette.vercel.app) | Golang, Nodejs, Typescript, Docker, AWS, TailwindCSS, Reactjs, Nextjs, Expressjs, Bash Scripting |
 | [@shermine237](https://github.com/Shermine237) | [See projects](https://github.com/Shermine237?tab=repositories) | DevOps, SysAdmin, Fullstack Dev |
-| [@Nkwenti@Severian](https://github.com/Nkwenti-Severian-Ndongtsop) | [see projects](https://nkwenti-severian-ndongtsop-a4rt-936t4g1ib.vercel.app) | Rust, Web Dev, GitHub Actions, Linux Administartion, UI/UX Design |
+| [@Nkwenti@Severian](https://github.com/Nkwenti-Severian-Ndongtsop) | [see projects](https://nkwenti-severian-ndongtsop-a4rt-936t4g1ib.vercel.app) | Rust, Web Dev, GitHub Actions, Linux Administration, UI/UX Design |
+| [@blair2004](https://github.com/blair2004) | [NexoPOS](https://github.com/blair2004/NexoPOS), [Repositories](https://github.com/blair2004/repositories) | PHP (Laravel), Javascript/Typescript, Flutter, Python, Docker |
 
 _Add your GitHub username and your projects!_
 
 ## 📢 Community Goals
-- Connect with each other
+- Connect with others
 - Contribute to each other’s projects
 - Host monthly mini-hackathons
 - Highlight awesome Cameroonian devs
