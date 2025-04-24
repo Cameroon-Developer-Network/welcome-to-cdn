@@ -25,6 +25,7 @@ To join, simply:
 | [@shermine237](https://github.com/Shermine237) | [See projects](https://github.com/Shermine237?tab=repositories) | DevOps, SysAdmin, Fullstack Dev |
 | [@Nkwenti@Severian](https://github.com/Nkwenti-Severian-Ndongtsop) | [see projects](https://nkwenti-severian-ndongtsop-a4rt-936t4g1ib.vercel.app) | Rust, Web Dev, GitHub Actions, Linux Administration, UI/UX Design |
 | [@blair2004](https://github.com/blair2004) | [NexoPOS](https://github.com/blair2004/NexoPOS), [Repositories](https://github.com/Blair2004?tab=repositories) | PHP (Laravel), Javascript/Typescript, Flutter, Python, Docker |
+| [@emmanuellekamwa](https://github.com/emmanuellekamwa) | [Portfolio](https://emmanuellekamwa.github.io/Portfolio/) | HTML/CSS, Bootstrap, JavaScript, React, and Redux |
 
 _Add your GitHub username and your projects!_
 
