@@ -23,7 +23,7 @@ To join, simply:
 | [@chojuninengu](https://github.com/chojuninengu) | [FibBot](https://github.com/chojuninengu/fibbot), [ShareSphere](https://github.com/chojuninengu/sharesphere) | Rust, Web Dev, GitHub Actions |
 | [@kimbohlovette](https://github.com/kimbohlovette) | [See projects](https://kimbohlovette.vercel.app) | Golang, Nodejs, Typescript, Docker, AWS, TailwindCSS, Reactjs, Nextjs, Expressjs, Bash Scripting |
 | [@shermine237](https://github.com/Shermine237) | [See projects](https://github.com/Shermine237?tab=repositories) | DevOps, SysAdmin, Fullstack Dev |
-| [@Nkwenti@Severian](https://github.com/Nkwenti-Severian-Ndongtsop) | [Qr-image gen](https://github.com/Nkwenti-Severian-Ndongtsop/Rust-QR-Code-Generator), [weather-app](https://github.com/Nkwenti-Severian-Ndongtsop/rust-server-projects/tree/main/weather-app), [portfolio-profile](https://github.com/Nkwenti-Severian-Ndongtsop/Nkwenti-Severian-Ndongtsop) | Rust, Web Dev, GitHub Actions, Linux Administartion, UI/UX Design |
+| [@Nkwenti@Severian](https://github.com/Nkwenti-Severian-Ndongtsop) | [see projects](nkwenti-severian-ndongtsop-a4rt-936t4g1ib.vercel.app) | Rust, Web Dev, GitHub Actions, Linux Administartion, UI/UX Design |
 
 _Add your GitHub username and your projects!_
 
