@@ -24,7 +24,7 @@ To join, simply:
 | [@kimbohlovette](https://github.com/kimbohlovette) | [See projects](https://kimbohlovette.vercel.app) | Golang, Nodejs, Typescript, Docker, AWS, TailwindCSS, Reactjs, Nextjs, Expressjs, Bash Scripting |
 | [@shermine237](https://github.com/Shermine237) | [See projects](https://github.com/Shermine237?tab=repositories) | DevOps, SysAdmin, Fullstack Dev |
 | [@Nkwenti@Severian](https://github.com/Nkwenti-Severian-Ndongtsop) | [see projects](https://nkwenti-severian-ndongtsop-a4rt-936t4g1ib.vercel.app) | Rust, Web Dev, GitHub Actions, Linux Administration, UI/UX Design |
-| [@blair2004](https://github.com/blair2004) | [NexoPOS](https://github.com/blair2004/NexoPOS), [Repositories](https://github.com/blair2004/repositories) | PHP (Laravel), Javascript/Typescript, Flutter, Python, Docker |
+| [@blair2004](https://github.com/blair2004) | [NexoPOS](https://github.com/blair2004/NexoPOS), [Repositories](https://github.com/Blair2004?tab=repositories) | PHP (Laravel), Javascript/Typescript, Flutter, Python, Docker |
 
 _Add your GitHub username and your projects!_
 
