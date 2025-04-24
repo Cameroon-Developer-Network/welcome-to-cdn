@@ -22,6 +22,7 @@ To join, simply:
 |----------|----------|--------|
 | [@chojuninengu](https://github.com/chojuninengu) | [FibBot](https://github.com/chojuninengu/fibbot), [ShareSphere](https://github.com/chojuninengu/sharesphere) | Rust, Web Dev, GitHub Actions |
 | [@kimbohlovette](https://github.com/kimbohlovette) | [See projects](https://kimbohlovette.vercel.app) | Golang, Nodejs, Typescript, Docker, AWS, TailwindCSS, Reactjs, Nextjs, Expressjs, Bash Scripting |
+| [@shermine237](https://github.com/Shermine237) | [See projects](https://github.com/Shermine237?tab=repositories) | DevOps, SysAdmin, Fullstack Dev |
 
 _Add your GitHub username and your projects!_
 
