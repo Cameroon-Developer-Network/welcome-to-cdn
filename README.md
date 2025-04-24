@@ -1,4 +1,5 @@
 # 🇨🇲 Cameroon Developer Network
+[![I’m a Proud 🇨🇲 Cameroonian Dev](https://img.shields.io/badge/Cameroon-Dev-green)](https://github.com/chojuninengu/cameroon-developer-network)
 
 Welcome to the **Cameroon Developer Network** — a growing community of developers from Cameroon 🇨🇲 who believe in collaboration, growth, and lifting each other up.
 
