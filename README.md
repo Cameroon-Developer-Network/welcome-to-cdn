@@ -26,6 +26,7 @@ To join, simply:
 | [@Nkwenti@Severian](https://github.com/Nkwenti-Severian-Ndongtsop) | [see projects](https://nkwenti-severian-ndongtsop-git-f6a0e5-nkwenti-everians-projects.vercel.app) | Rust, Web Dev, GitHub Actions, Linux Administration, UI/UX Design |
 | [@blair2004](https://github.com/blair2004) | [NexoPOS](https://github.com/blair2004/NexoPOS), [Repositories](https://github.com/Blair2004?tab=repositories) | PHP (Laravel), Javascript/Typescript, Flutter, Python, Docker |
 | [@emmanuellekamwa](https://github.com/emmanuellekamwa) | [Portfolio](https://emmanuellekamwa.github.io/Portfolio/) | HTML/CSS, Bootstrap, JavaScript, React, and Redux |
+| [@juniorngu](https://github.com/juniordcoder) | [Projects](https://github.com/juniordcoder) | Fullstack Engineer, Blockchain, DevOps/Cloud, IoT, Vue.js, React.js, Next.js, Nuxt.js, React Native, PHP Laravel, Firebase |
 
 _Add your GitHub username and your projects!_
 
