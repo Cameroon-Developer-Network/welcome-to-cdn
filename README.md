@@ -27,6 +27,7 @@ To join, simply:
 | [@blair2004](https://github.com/blair2004) | [NexoPOS](https://github.com/blair2004/NexoPOS), [Repositories](https://github.com/Blair2004?tab=repositories) | PHP (Laravel), Javascript/Typescript, Flutter, Python, Docker |
 | [@emmanuellekamwa](https://github.com/emmanuellekamwa) | [Portfolio](https://emmanuellekamwa.github.io/Portfolio/) | HTML/CSS, Bootstrap, JavaScript, React, and Redux |
 | [@juniorngu](https://github.com/juniordcoder) | [Projects](https://github.com/juniordcoder) | Fullstack Engineer, Blockchain, DevOps/Cloud, IoT, Vue.js, React.js, Next.js, Nuxt.js, React Native, PHP Laravel, Firebase |
+ [@kenrique100](https://github.com/kenrique100) | [Projects](https://github.com/kenrique100?tab=repositories) | Fullstack Engineer, DevOps/Cloud, React.js, Next.js, Backend Springboot, Node.js |
 
 _Add your GitHub username and your projects!_
 
