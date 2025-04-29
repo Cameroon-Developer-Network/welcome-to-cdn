@@ -1,0 +1,72 @@
+name: Sync from Personal Repo
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Every day at 2:00 AM UTC
+  workflow_dispatch:     # Allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # Prevent long-running jobs
+
+    steps:
+      - name: Checkout organization repo
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          persist-credentials: false  # We'll use a PAT for pushing
+
+      - name: Set up Git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add personal repo as remote
+        run: |
+          git remote add personal https://github.com/chojuninengu/cameroon-developer-network.git
+          git fetch personal
+        continue-on-error: true  # Continue even if fetch fails
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet personal/main main; then
+            echo "No changes to sync"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Merge changes from personal repo
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git merge personal/main --allow-unrelated-histories --no-edit || {
+            echo "Merge conflict detected"
+            git merge --abort
+            exit 1
+          }
+
+      - name: Push to organization repo
+        if: steps.check_changes.outputs.has_changes == 'true'
+        env:
+          TOKEN: ${{ secrets.PERSONAL_REPO_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/Cameroon-Developer-Network/welcome-to-cdn.git
+          git push origin main || {
+            echo "Failed to push changes"
+            exit 1
+          }
+
+      - name: Cleanup
+        if: always()
+        run: |
+          git remote remove personal || true
+          git clean -fd || true
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "Sync workflow failed. Please check the logs for details."
+          exit 1 
